@@ -19,4 +19,4 @@ for further guide:
 
 contact developer: https://t.me/pysmart
 
-automated tool for sending bulk reports to tiktok users
+automated tool for sending bulk reports to facebook users
