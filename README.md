@@ -1,9 +1,10 @@
-# tiktok-reporter
-A powerful tool for reporting tiktok accounts.
+# facebook-reporter
+A powerful tool for reporting facebook accounts, groups and pages
 
 developer: https://t.me/pysmart
 
-![C81CB8AD-F969-4381-BF47-40762E246E88_1_105_c](https://github.com/user-attachments/assets/36eec7df-d5ab-4c6e-ad64-aeeeeb47db75)
+![randompic](https://github.com/user-attachments/assets/9a27c208-c672-4ac0-884e-fe57eb25afa6)
+
 
 # STEPS TO FOLLOW
 - generate up to 100 sessions
