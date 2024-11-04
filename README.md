@@ -8,7 +8,7 @@ developer: https://t.me/pysmart
 
 # STEPS TO FOLLOW
 - generate up to 100 sessions
-- generate proxies, you can use free proxies
+- generate rotational proxies, you can use free proxies
 
 developer: https://t.me/pysmart
 
