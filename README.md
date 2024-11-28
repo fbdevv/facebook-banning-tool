@@ -1,5 +1,5 @@
 # facebook-reporter
-A powerful tool for reporting facebook accounts, groups and pages
+A powerful tool for reporting facebook accounts, groups and public pages
 
 developer: https://t.me/pysmart
 
