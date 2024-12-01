@@ -19,4 +19,4 @@ for further support:
 
 contact developer: https://t.me/pysmart
 
-automated tool for sending bulk reports to facebook bulk users
+automated tool for sending bulk reports to facebook bulk users and IDs
